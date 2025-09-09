@@ -1,0 +1,1 @@
+bash -c "gcc -o raytracing main.c `sdl2-config --cflags --libs` -lm"
